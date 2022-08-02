@@ -1,0 +1,44 @@
+
+.button-join {
+    padding: 5px 10px;
+    font-size: 20;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color: blue;
+    border: none;
+    border-radius: 15px;
+}
+    
+.button-join:hover {background-color: lightblue;
+}
+  
+.button-join:active {
+    background-color: lightblue;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+}
+
+.join{
+    padding:7px 14px;
+    font-size:20;
+    text-align:center;
+    cursor:pointer;
+    outline:none;
+    color:#fff;
+    background-color:#3ca3de;
+    margin:auto;
+    border:none;
+    border-radius:8px;
+    box-shadow:0 0 13px 2px #3ca3de;
+}
+
+.join:hover{background-color:#add8e6;
+    box-shadow:0 0 13px 2px #add8e6;
+}
+
+.join:active{
+    background-color:#add8e6;
+    box-shadow:0 0 13px 2px #add8e6;
+}
